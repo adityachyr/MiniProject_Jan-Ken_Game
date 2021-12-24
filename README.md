@@ -1,2 +1,5 @@
 # MiniProject_Jan-Ken_Game
-Mini Project Jan-Ken Game JavaScript Additional
+
+Halo, Saya Aditya Cahaya.
+
+Kali ini saya membuat Mini Project JavaScript yaitu Jan-Ken Game.
